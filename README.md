@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ayoub Rezzouk
+- 👀 I’m interested in Software developement and Game dev 
+- 🌱 I’m currently learning Unreal engine for game dev 
+- 💞️ I’m looking to collaborate on projects and improve my skills in Game dev 
+- 📫 rezzouk.ayouble@gmail.com
